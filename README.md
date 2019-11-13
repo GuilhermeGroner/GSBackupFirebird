@@ -10,3 +10,4 @@ Projeto Delphi para backups automáticos para banco de dados Firebird
 * Componentes de Conexão Firedac;
 * Componentes da TMS;
 * Componentes DevExpress;
+* Componentes Jedi;

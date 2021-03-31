@@ -11,3 +11,4 @@ Projeto Delphi para backups automáticos para banco de dados Firebird
 * Componentes da TMS;
 * Componentes DevExpress;
 * Componentes Jedi;
+* ZipMaster
